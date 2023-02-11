@@ -43,7 +43,7 @@ const Home = () => (
       <Box display={{ md: 'flex' }}>
         <Box flexGrow={1}>
           <Heading as="h2" variant="page-title">
-            Takuya Matsuyama
+            Joalisson C M
           </Heading>
           <p>Digital Craftsman ( Artist / Developer / Designer )</p>
         </Box>
@@ -160,7 +160,7 @@ const Home = () => (
         </Heading>
         <List>
           <ListItem>
-            <Link href="https://github.com/craftzdog" target="_blank">
+            <Link href="https://github.com/joalissoncm" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
@@ -193,7 +193,7 @@ const Home = () => (
             </Link>
           </ListItem>
           <ListItem>
-            <Link href="https://instagram.com/craftzdog" target="_blank">
+            <Link href="https://www.instagram.com/joalissoncm/" target="_blank">
               <Button
                 variant="ghost"
                 colorScheme="teal"
